@@ -1,0 +1,3 @@
+[submodule "random/lib/forge-std"]
+	path = random/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
